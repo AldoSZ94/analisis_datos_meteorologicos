@@ -1,6 +1,6 @@
 # 🌤️ Análisis de Datos Meteorológicos
 
-Este proyecto realiza un análisis exploratorio de un conjunto de datos meteorológicos históricos. El objetivo principal es limpiar, organizar y extraer información relevante sobre variables climáticas como la temperatura, la precipitación y la humedad a lo largo del tiempo.
+Este es mi proyecto N°2 de mi curso de Udemy **"Python para Data Science & Machine Learning en 18 días"**. Este proyecto realiza un análisis exploratorio de un conjunto de datos meteorológicos históricos. El objetivo principal es limpiar, organizar y extraer información relevante sobre variables climáticas como la temperatura, la precipitación y la humedad a lo largo del tiempo.
 
 ---
 
